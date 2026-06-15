@@ -1,0 +1,59 @@
+{
+  "diagnoses": [
+    "F41.1",
+    "J06.9"
+  ],
+  "insured": {
+    "id": "D254152209",
+    "name": "SAME",
+    "plan_name": "Cigna Open Access"
+  },
+  "patient": {
+    "address": "71760 ROGERS SPUR APT. 296, FRESNO, CA 93701",
+    "dob": "1941-02-01",
+    "name": "RANDALL, THERESA",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. DRAKE, VICTORIA",
+    "npi": "8880735978",
+    "tax_id": "36-2881035"
+  },
+  "service_lines": [
+    {
+      "charges": 428.19,
+      "cpt_code": "99213",
+      "date_from": "2026-01-24",
+      "date_to": "2026-01-24",
+      "diagnosis_pointer": "2",
+      "modifier": "25",
+      "place_of_service": "11",
+      "units": 3
+    },
+    {
+      "charges": 366.1,
+      "cpt_code": "97110",
+      "date_from": "2026-04-03",
+      "date_to": "2026-04-03",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 1
+    },
+    {
+      "charges": 310.82,
+      "cpt_code": "99214",
+      "date_from": "2026-01-21",
+      "date_to": "2026-01-21",
+      "diagnosis_pointer": "2",
+      "modifier": "25",
+      "place_of_service": "11",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 567.68,
+    "balance_due": 2015.45,
+    "total_charge": 2583.13
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "diagnoses": [
+    "F41.1",
+    "Z00.00",
+    "K21.9",
+    "E11.9"
+  ],
+  "insured": {
+    "id": "Y644869537",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "48764 HOWARD FORGE APT. 421, FRESNO, CA 93701",
+    "dob": "1962-05-01",
+    "name": "RICHARD, KATHERINE",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. MONTGOMERY, JOHN",
+    "npi": "7569408009",
+    "tax_id": "63-9169186"
+  },
+  "service_lines": [
+    {
+      "charges": 184.99,
+      "cpt_code": "85025",
+      "date_from": "2026-01-28",
+      "date_to": "2026-01-28",
+      "diagnosis_pointer": "2",
+      "modifier": "59",
+      "place_of_service": "21",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 369.98,
+    "total_charge": 369.98
+  }
+}

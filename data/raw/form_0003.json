@@ -1,0 +1,38 @@
+{
+  "diagnoses": [
+    "J06.9"
+  ],
+  "insured": {
+    "id": "A901376567",
+    "name": "SAME",
+    "plan_name": "BCBS Choice"
+  },
+  "patient": {
+    "address": "15871 ARNOLD SQUARES APT. 858, SPRINGFIELD, IL 62704",
+    "dob": "1993-02-24",
+    "name": "PRATT, DOUGLAS",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. HARRIS, LAUREN",
+    "npi": "4414890209",
+    "tax_id": "18-8172128"
+  },
+  "service_lines": [
+    {
+      "charges": 408.56,
+      "cpt_code": "99213",
+      "date_from": "2026-04-19",
+      "date_to": "2026-04-19",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 408.56,
+    "total_charge": 408.56
+  }
+}

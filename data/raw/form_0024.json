@@ -1,0 +1,38 @@
+{
+  "diagnoses": [
+    "F41.1"
+  ],
+  "insured": {
+    "id": "D205192465",
+    "name": "SAME",
+    "plan_name": "United HMO"
+  },
+  "patient": {
+    "address": "96687 BASS PARKS APT. 893, FRESNO, CA 93701",
+    "dob": "1977-03-13",
+    "name": "GARCIA, CAITLYN",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. SMITH, JANICE",
+    "npi": "7794402513",
+    "tax_id": "28-6899118"
+  },
+  "service_lines": [
+    {
+      "charges": 442.52,
+      "cpt_code": "80053",
+      "date_from": "2026-02-27",
+      "date_to": "2026-02-27",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 1327.56,
+    "total_charge": 1327.56
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "diagnoses": [
+    "F41.1",
+    "I10"
+  ],
+  "insured": {
+    "id": "C520209208",
+    "name": "SAME",
+    "plan_name": "Cigna Open Access"
+  },
+  "patient": {
+    "address": "7063 MARY CURVE APT. 665, FRESNO, CA 93701",
+    "dob": "1982-07-06",
+    "name": "SMITH, BENJAMIN",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. SMITH, ALEXIS",
+    "npi": "9766976034",
+    "tax_id": "21-2534253"
+  },
+  "service_lines": [
+    {
+      "charges": 447.29,
+      "cpt_code": "71046",
+      "date_from": "2026-01-14",
+      "date_to": "2026-01-14",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 575.53,
+    "balance_due": 319.05,
+    "total_charge": 894.58
+  }
+}

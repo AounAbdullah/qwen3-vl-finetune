@@ -1,0 +1,40 @@
+{
+  "diagnoses": [
+    "E11.9",
+    "F41.1",
+    "Z00.00"
+  ],
+  "insured": {
+    "id": "Z550629688",
+    "name": "UNDERWOOD, ANTONIO",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "659 KELLY FIELD, DAYTON, OH 45402",
+    "dob": "2003-11-10",
+    "name": "PAYNE, KEITH",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. ZAVALA, JORDAN",
+    "npi": "1245114900",
+    "tax_id": "61-8240169"
+  },
+  "service_lines": [
+    {
+      "charges": 68.93,
+      "cpt_code": "36415",
+      "date_from": "2026-02-02",
+      "date_to": "2026-02-02",
+      "diagnosis_pointer": "3",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 206.79,
+    "total_charge": 206.79
+  }
+}

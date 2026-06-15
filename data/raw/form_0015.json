@@ -1,0 +1,40 @@
+{
+  "diagnoses": [
+    "J06.9",
+    "I10",
+    "M25.561"
+  ],
+  "insured": {
+    "id": "B528545954",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "19344 CRAIG WALK, SPRINGFIELD, IL 62704",
+    "dob": "1979-08-28",
+    "name": "FISCHER, TINA",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. LIVINGSTON, COURTNEY",
+    "npi": "3962436246",
+    "tax_id": "44-6404898"
+  },
+  "service_lines": [
+    {
+      "charges": 81.01,
+      "cpt_code": "80053",
+      "date_from": "2026-04-22",
+      "date_to": "2026-04-22",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 81.01,
+    "total_charge": 81.01
+  }
+}

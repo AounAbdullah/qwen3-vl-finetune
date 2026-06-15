@@ -1,0 +1,58 @@
+{
+  "diagnoses": [
+    "F41.1"
+  ],
+  "insured": {
+    "id": "C321616934",
+    "name": "GARCIA, STEPHEN",
+    "plan_name": "United HMO"
+  },
+  "patient": {
+    "address": "317 SCOTT ROW APT. 392, DAYTON, OH 45402",
+    "dob": "1943-04-03",
+    "name": "FARRELL, ANTHONY",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. WARD, MARGARET",
+    "npi": "5885116852",
+    "tax_id": "19-6546490"
+  },
+  "service_lines": [
+    {
+      "charges": 332.34,
+      "cpt_code": "36415",
+      "date_from": "2026-04-05",
+      "date_to": "2026-04-05",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "21",
+      "units": 1
+    },
+    {
+      "charges": 37.1,
+      "cpt_code": "97110",
+      "date_from": "2026-01-21",
+      "date_to": "2026-01-21",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    },
+    {
+      "charges": 225.56,
+      "cpt_code": "80053",
+      "date_from": "2026-01-03",
+      "date_to": "2026-01-03",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "21",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 820.56,
+    "total_charge": 820.56
+  }
+}

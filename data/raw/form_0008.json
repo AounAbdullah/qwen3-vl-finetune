@@ -1,0 +1,41 @@
+{
+  "diagnoses": [
+    "I10",
+    "F41.1",
+    "J06.9",
+    "E11.9"
+  ],
+  "insured": {
+    "id": "D410428159",
+    "name": "SAME",
+    "plan_name": "BCBS Choice"
+  },
+  "patient": {
+    "address": "21730 AMY RIVER, DAYTON, OH 45402",
+    "dob": "1963-07-27",
+    "name": "HOOPER, BENJAMIN",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. GARCIA, JORDAN",
+    "npi": "2134449169",
+    "tax_id": "22-7639789"
+  },
+  "service_lines": [
+    {
+      "charges": 355.6,
+      "cpt_code": "71046",
+      "date_from": "2026-05-18",
+      "date_to": "2026-05-18",
+      "diagnosis_pointer": "3",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 355.6,
+    "total_charge": 355.6
+  }
+}

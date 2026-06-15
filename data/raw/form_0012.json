@@ -1,0 +1,40 @@
+{
+  "diagnoses": [
+    "M54.5",
+    "Z00.00",
+    "I10"
+  ],
+  "insured": {
+    "id": "D183252263",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "924 GOODMAN VILLAGE APT. 093, AUSTIN, TX 78701",
+    "dob": "1994-08-04",
+    "name": "BELL, KEITH",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. HALE, ERNEST",
+    "npi": "6957769451",
+    "tax_id": "60-1069307"
+  },
+  "service_lines": [
+    {
+      "charges": 236.3,
+      "cpt_code": "80053",
+      "date_from": "2026-03-17",
+      "date_to": "2026-03-17",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 453.1,
+    "balance_due": 19.5,
+    "total_charge": 472.6
+  }
+}

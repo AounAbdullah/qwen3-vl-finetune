@@ -1,0 +1,39 @@
+{
+  "diagnoses": [
+    "J06.9",
+    "F41.1"
+  ],
+  "insured": {
+    "id": "B324740570",
+    "name": "SAME",
+    "plan_name": "United HMO"
+  },
+  "patient": {
+    "address": "1157 MICHAEL ISLAND, AUSTIN, TX 78701",
+    "dob": "1948-06-23",
+    "name": "BROWNING, TONYA",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. CARR, ROBIN",
+    "npi": "4594911298",
+    "tax_id": "73-8008088"
+  },
+  "service_lines": [
+    {
+      "charges": 164.26,
+      "cpt_code": "99213",
+      "date_from": "2026-02-06",
+      "date_to": "2026-02-06",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "21",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 334.18,
+    "balance_due": 158.6,
+    "total_charge": 492.78
+  }
+}

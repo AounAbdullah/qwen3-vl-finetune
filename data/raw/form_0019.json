@@ -1,0 +1,39 @@
+{
+  "diagnoses": [
+    "K21.9",
+    "M25.561"
+  ],
+  "insured": {
+    "id": "D472194984",
+    "name": "PERRY, CORY",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "42814 HOUSTON HILLS, FRESNO, CA 93701",
+    "dob": "1997-02-16",
+    "name": "CARTER, TIMOTHY",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. KERR, THOMAS",
+    "npi": "4113475337",
+    "tax_id": "42-9223638"
+  },
+  "service_lines": [
+    {
+      "charges": 366.53,
+      "cpt_code": "71046",
+      "date_from": "2026-01-08",
+      "date_to": "2026-01-08",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 366.53,
+    "total_charge": 366.53
+  }
+}

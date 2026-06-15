@@ -1,0 +1,40 @@
+{
+  "diagnoses": [
+    "J06.9",
+    "F41.1",
+    "I10"
+  ],
+  "insured": {
+    "id": "Z729875490",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "097 BOWMAN LANDING APT. 369, FRESNO, CA 93701",
+    "dob": "1971-08-28",
+    "name": "GREEN, LEROY",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. CARTER, DILLON",
+    "npi": "7203986985",
+    "tax_id": "90-3840007"
+  },
+  "service_lines": [
+    {
+      "charges": 407.72,
+      "cpt_code": "97110",
+      "date_from": "2026-02-09",
+      "date_to": "2026-02-09",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 815.44,
+    "total_charge": 815.44
+  }
+}

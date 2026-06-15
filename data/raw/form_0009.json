@@ -1,0 +1,51 @@
+{
+  "diagnoses": [
+    "M25.561",
+    "J06.9",
+    "K21.9",
+    "F41.1"
+  ],
+  "insured": {
+    "id": "Z243066433",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "2087 CANDACE SQUARES SUITE 345, AUSTIN, TX 78701",
+    "dob": "2000-10-16",
+    "name": "WALKER, DEBORAH",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. STRONG, THEODORE",
+    "npi": "5945733180",
+    "tax_id": "56-8188936"
+  },
+  "service_lines": [
+    {
+      "charges": 388.16,
+      "cpt_code": "99214",
+      "date_from": "2026-03-12",
+      "date_to": "2026-03-12",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "23",
+      "units": 1
+    },
+    {
+      "charges": 70.9,
+      "cpt_code": "99214",
+      "date_from": "2026-04-24",
+      "date_to": "2026-04-24",
+      "diagnosis_pointer": "4",
+      "modifier": "25",
+      "place_of_service": "11",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 459.06,
+    "total_charge": 459.06
+  }
+}

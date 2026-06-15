@@ -1,0 +1,89 @@
+{
+  "diagnoses": [
+    "Z00.00",
+    "E11.9"
+  ],
+  "insured": {
+    "id": "C371737472",
+    "name": "OBRIEN, BARBARA",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "0123 LISA ROADS APT. 013, SPRINGFIELD, IL 62704",
+    "dob": "1961-10-24",
+    "name": "ROBINSON, LAURA",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. MYERS, MITCHELL",
+    "npi": "8164580528",
+    "tax_id": "61-4170983"
+  },
+  "service_lines": [
+    {
+      "charges": 105.46,
+      "cpt_code": "99203",
+      "date_from": "2026-04-27",
+      "date_to": "2026-04-27",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    },
+    {
+      "charges": 262.44,
+      "cpt_code": "36415",
+      "date_from": "2026-03-09",
+      "date_to": "2026-03-09",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 3
+    },
+    {
+      "charges": 247.01,
+      "cpt_code": "99203",
+      "date_from": "2026-04-24",
+      "date_to": "2026-04-24",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "23",
+      "units": 3
+    },
+    {
+      "charges": 236.42,
+      "cpt_code": "85025",
+      "date_from": "2026-01-10",
+      "date_to": "2026-01-10",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    },
+    {
+      "charges": 103.92,
+      "cpt_code": "85025",
+      "date_from": "2026-02-05",
+      "date_to": "2026-02-05",
+      "diagnosis_pointer": "2",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 1
+    },
+    {
+      "charges": 103.97,
+      "cpt_code": "97110",
+      "date_from": "2026-02-14",
+      "date_to": "2026-02-14",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "23",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 2182.09,
+    "total_charge": 2182.09
+  }
+}

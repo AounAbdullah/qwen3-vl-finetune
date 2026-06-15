@@ -1,0 +1,36 @@
+{
+  "patient": {
+    "name": "str",
+    "dob": "YYYY-MM-DD",
+    "sex": "M|F",
+    "address": "str"
+  },
+  "insured": {
+    "id": "str",
+    "name": "str",
+    "plan_name": "str"
+  },
+  "diagnoses": ["ICD-10 codes, 1-12 entries"],
+  "service_lines": [
+    {
+      "date_from": "YYYY-MM-DD",
+      "date_to": "YYYY-MM-DD",
+      "place_of_service": "str",
+      "cpt_code": "str",
+      "modifier": "str|null",
+      "diagnosis_pointer": "str",
+      "charges": "float",
+      "units": "int"
+    }
+  ],
+  "provider": {
+    "npi": "str",
+    "tax_id": "str",
+    "name": "str"
+  },
+  "totals": {
+    "total_charge": "float",
+    "amount_paid": "float",
+    "balance_due": "float"
+  }
+}

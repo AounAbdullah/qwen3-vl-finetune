@@ -1,0 +1,50 @@
+{
+  "diagnoses": [
+    "Z00.00",
+    "M25.561",
+    "I10"
+  ],
+  "insured": {
+    "id": "C429029360",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "2851 JOSHUA BROOK, DAYTON, OH 45402",
+    "dob": "2008-03-12",
+    "name": "JOHNSON, ROBIN",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. WILLIAMS, JAMIE",
+    "npi": "5802920744",
+    "tax_id": "61-8675532"
+  },
+  "service_lines": [
+    {
+      "charges": 448.57,
+      "cpt_code": "99214",
+      "date_from": "2026-04-27",
+      "date_to": "2026-04-27",
+      "diagnosis_pointer": "2",
+      "modifier": "25",
+      "place_of_service": "23",
+      "units": 3
+    },
+    {
+      "charges": 437.03,
+      "cpt_code": "85025",
+      "date_from": "2026-02-09",
+      "date_to": "2026-02-09",
+      "diagnosis_pointer": "3",
+      "modifier": "25",
+      "place_of_service": "23",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 2219.77,
+    "total_charge": 2219.77
+  }
+}

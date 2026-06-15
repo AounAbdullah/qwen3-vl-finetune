@@ -1,0 +1,38 @@
+{
+  "diagnoses": [
+    "K21.9"
+  ],
+  "insured": {
+    "id": "C201601388",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "69602 BROWN SQUARES APT. 787, SPRINGFIELD, IL 62704",
+    "dob": "1966-11-01",
+    "name": "WALKER, SHANE",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. ODONNELL, CASSANDRA",
+    "npi": "7954372077",
+    "tax_id": "29-5991975"
+  },
+  "service_lines": [
+    {
+      "charges": 161.15,
+      "cpt_code": "71046",
+      "date_from": "2026-04-22",
+      "date_to": "2026-04-22",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "21",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 15.49,
+    "balance_due": 306.81,
+    "total_charge": 322.3
+  }
+}

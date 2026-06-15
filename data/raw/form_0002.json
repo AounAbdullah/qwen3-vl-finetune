@@ -1,0 +1,39 @@
+{
+  "diagnoses": [
+    "F41.1",
+    "Z00.00"
+  ],
+  "insured": {
+    "id": "Y286019108",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "80160 CLAYTON ISLE APT. 513, FRESNO, CA 93701",
+    "dob": "1976-04-15",
+    "name": "LEVY, THOMAS",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. STARK, JEFFREY",
+    "npi": "6971164017",
+    "tax_id": "39-7693862"
+  },
+  "service_lines": [
+    {
+      "charges": 70.86,
+      "cpt_code": "99214",
+      "date_from": "2026-01-03",
+      "date_to": "2026-01-03",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "22",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 141.72,
+    "total_charge": 141.72
+  }
+}

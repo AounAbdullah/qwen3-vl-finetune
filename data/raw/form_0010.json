@@ -1,0 +1,88 @@
+{
+  "diagnoses": [
+    "M25.561"
+  ],
+  "insured": {
+    "id": "A233786348",
+    "name": "WADE, ALEXANDER",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "22584 CANDICE MILLS, FRESNO, CA 93701",
+    "dob": "1958-05-04",
+    "name": "BARRERA, ASHLEY",
+    "sex": "F"
+  },
+  "provider": {
+    "name": "DR. MALDONADO, RACHEL",
+    "npi": "9462251602",
+    "tax_id": "46-9917667"
+  },
+  "service_lines": [
+    {
+      "charges": 172.07,
+      "cpt_code": "36415",
+      "date_from": "2026-01-17",
+      "date_to": "2026-01-17",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "23",
+      "units": 3
+    },
+    {
+      "charges": 162.88,
+      "cpt_code": "99214",
+      "date_from": "2026-03-27",
+      "date_to": "2026-03-27",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "11",
+      "units": 3
+    },
+    {
+      "charges": 139.81,
+      "cpt_code": "99203",
+      "date_from": "2026-04-07",
+      "date_to": "2026-04-07",
+      "diagnosis_pointer": "1",
+      "modifier": "59",
+      "place_of_service": "11",
+      "units": 2
+    },
+    {
+      "charges": 401.31,
+      "cpt_code": "36415",
+      "date_from": "2026-02-02",
+      "date_to": "2026-02-02",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 1
+    },
+    {
+      "charges": 179.45,
+      "cpt_code": "71046",
+      "date_from": "2026-04-25",
+      "date_to": "2026-04-25",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "23",
+      "units": 1
+    },
+    {
+      "charges": 57.01,
+      "cpt_code": "71046",
+      "date_from": "2026-05-28",
+      "date_to": "2026-05-28",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 1411.8,
+    "balance_due": 624.46,
+    "total_charge": 2036.26
+  }
+}

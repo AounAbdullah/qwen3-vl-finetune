@@ -1,0 +1,61 @@
+{
+  "diagnoses": [
+    "J06.9",
+    "M25.561",
+    "E11.9",
+    "F41.1"
+  ],
+  "insured": {
+    "id": "A143292504",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "4280 HARMON ISLE APT. 842, DAYTON, OH 45402",
+    "dob": "1985-09-18",
+    "name": "GOLDEN, SAMANTHA",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. ALLEN, STEPHANIE",
+    "npi": "3786610673",
+    "tax_id": "37-8050021"
+  },
+  "service_lines": [
+    {
+      "charges": 138.87,
+      "cpt_code": "71046",
+      "date_from": "2026-05-14",
+      "date_to": "2026-05-14",
+      "diagnosis_pointer": "3",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 2
+    },
+    {
+      "charges": 157.87,
+      "cpt_code": "85025",
+      "date_from": "2026-05-01",
+      "date_to": "2026-05-01",
+      "diagnosis_pointer": "3",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 1
+    },
+    {
+      "charges": 15.04,
+      "cpt_code": "71046",
+      "date_from": "2026-05-28",
+      "date_to": "2026-05-28",
+      "diagnosis_pointer": "1",
+      "modifier": "25",
+      "place_of_service": "22",
+      "units": 1
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 450.65,
+    "total_charge": 450.65
+  }
+}

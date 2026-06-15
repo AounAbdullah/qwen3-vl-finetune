@@ -1,0 +1,49 @@
+{
+  "diagnoses": [
+    "M54.5",
+    "K21.9"
+  ],
+  "insured": {
+    "id": "X566532639",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "306 COREY POINT, DAYTON, OH 45402",
+    "dob": "2008-09-12",
+    "name": "MILLER, LINDSEY",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. STONE, SHANE",
+    "npi": "3010628588",
+    "tax_id": "15-4953481"
+  },
+  "service_lines": [
+    {
+      "charges": 267.13,
+      "cpt_code": "36415",
+      "date_from": "2026-02-05",
+      "date_to": "2026-02-05",
+      "diagnosis_pointer": "2",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 1
+    },
+    {
+      "charges": 152.3,
+      "cpt_code": "99213",
+      "date_from": "2026-05-08",
+      "date_to": "2026-05-08",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 357.52,
+    "balance_due": 214.21,
+    "total_charge": 571.73
+  }
+}

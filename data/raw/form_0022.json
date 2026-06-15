@@ -1,0 +1,38 @@
+{
+  "diagnoses": [
+    "Z00.00"
+  ],
+  "insured": {
+    "id": "D690270795",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "1534 RYAN KNOLLS, AUSTIN, TX 78701",
+    "dob": "1964-01-01",
+    "name": "BURNS, BRENDA",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. WILSON, LYNN",
+    "npi": "2659566913",
+    "tax_id": "12-3558361"
+  },
+  "service_lines": [
+    {
+      "charges": 302.89,
+      "cpt_code": "85025",
+      "date_from": "2026-05-05",
+      "date_to": "2026-05-05",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "22",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 605.78,
+    "total_charge": 605.78
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "diagnoses": [
+    "M54.5",
+    "F41.1",
+    "Z00.00"
+  ],
+  "insured": {
+    "id": "C606786610",
+    "name": "SAME",
+    "plan_name": "Aetna PPO"
+  },
+  "patient": {
+    "address": "159 BLAKE ESTATES APT. 945, DAYTON, OH 45402",
+    "dob": "1973-09-21",
+    "name": "NELSON, MATTHEW",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. FOSTER, AMY",
+    "npi": "4945599451",
+    "tax_id": "40-5004150"
+  },
+  "service_lines": [
+    {
+      "charges": 171.02,
+      "cpt_code": "97110",
+      "date_from": "2026-04-22",
+      "date_to": "2026-04-22",
+      "diagnosis_pointer": "2",
+      "modifier": "59",
+      "place_of_service": "22",
+      "units": 1
+    },
+    {
+      "charges": 295.38,
+      "cpt_code": "85025",
+      "date_from": "2026-04-26",
+      "date_to": "2026-04-26",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "21",
+      "units": 2
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 761.78,
+    "total_charge": 761.78
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "diagnoses": [
+    "J06.9",
+    "E11.9"
+  ],
+  "insured": {
+    "id": "Y700911588",
+    "name": "SAME",
+    "plan_name": "Humana Gold"
+  },
+  "patient": {
+    "address": "7515 TOM ROADS SUITE 330, DAYTON, OH 45402",
+    "dob": "1986-09-25",
+    "name": "LAWRENCE, STEPHANIE",
+    "sex": "M"
+  },
+  "provider": {
+    "name": "DR. DENNIS, DAVE",
+    "npi": "4312736552",
+    "tax_id": "19-7250201"
+  },
+  "service_lines": [
+    {
+      "charges": 370.1,
+      "cpt_code": "99213",
+      "date_from": "2026-02-11",
+      "date_to": "2026-02-11",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "23",
+      "units": 3
+    },
+    {
+      "charges": 141.11,
+      "cpt_code": "99214",
+      "date_from": "2026-02-25",
+      "date_to": "2026-02-25",
+      "diagnosis_pointer": "2",
+      "modifier": "25",
+      "place_of_service": "21",
+      "units": 2
+    },
+    {
+      "charges": 212.23,
+      "cpt_code": "97110",
+      "date_from": "2026-01-20",
+      "date_to": "2026-01-20",
+      "diagnosis_pointer": "1",
+      "modifier": null,
+      "place_of_service": "11",
+      "units": 3
+    }
+  ],
+  "totals": {
+    "amount_paid": 0.0,
+    "balance_due": 2029.21,
+    "total_charge": 2029.21
+  }
+}
